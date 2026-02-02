@@ -25,5 +25,23 @@ This project showcases my skills, projects, and creative frontend development st
 
 ---
 
+## view live 
+https://premomayee.netlify.app
+
 ## 📂 Project Structure
+portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+
+---
+
+## Setup & Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/premo997/premo997.git
 
